@@ -1,4 +1,11 @@
-# mukellef-nuxt
+# Mukellef Frontend Challenge with Nuxt.js
+
+## Getting Started
+
+You have to add api key to `.env` file
+```bash
+cp .env.example .env
+```
 
 ## Build Setup
 
@@ -16,5 +23,3 @@ $ yarn start
 # generate static project
 $ yarn generate
 ```
-
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
